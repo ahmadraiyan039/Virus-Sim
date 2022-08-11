@@ -7,7 +7,7 @@ from projects.pj02 import constants
 from math import sin, cos, pi, sqrt
 
 
-__author__ = "730403230"  
+
 
 
 class Point:
